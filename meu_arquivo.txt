@@ -1,0 +1,4 @@
+No silêncio de um repositório recém-criado, a primeira issue parecia um convite à aventura.
+Um commit ousado mudou tudo — e a branch nunca mais foi a mesma.
+Entre merges dramáticos e conflitos resolvidos na madrugada, nasceu uma nova versão.
+E assim, linha por linha, o projeto ganhou vida própria no GitHub.
